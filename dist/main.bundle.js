@@ -1,0 +1,1 @@
+(self.webpackChunkbattle_ship=self.webpackChunkbattle_ship||[]).push([[179],{52:()=>{console.log("yo00000000")}},e=>{e(e.s=52)}]);

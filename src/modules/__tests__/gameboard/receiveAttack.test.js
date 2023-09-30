@@ -1,5 +1,5 @@
-import gameboard from './gameboard'
-import ship from './ship'
+import gameboard from '../../gameboard/gameboard'
+import ship from '../../ship/ship'
 
 const board = gameboard()
 

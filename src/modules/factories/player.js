@@ -1,4 +1,4 @@
-import Gameboard from './src/modules/factories/gameboard'
+import Gameboard from './gameboard'
 import Ship from './ship'
 
 const Player = (() => {

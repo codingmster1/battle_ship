@@ -1,4 +1,4 @@
-import player from './player'
+import player from '../../factories/player'
 
 let combatant
 let cpu

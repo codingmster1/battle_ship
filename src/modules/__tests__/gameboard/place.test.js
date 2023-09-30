@@ -1,6 +1,6 @@
-import gameboard from './gameboard'
+import gameboard from '../../gameboard/gameboard'
 
-import ship from './ship'
+import ship from '../../ship/ship'
 
 // HORIZONTAL PLACEMENT
 
